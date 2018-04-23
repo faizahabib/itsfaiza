@@ -1,2 +1,0 @@
-# itsfaiza
-new programmmer
