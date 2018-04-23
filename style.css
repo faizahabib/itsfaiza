@@ -1,0 +1,30 @@
+#ab
+{
+	background-image:url("pong.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:60%;
+    text-align:center;
+    padding-top:10%;
+    color:deeppink;
+    
+}
+.game{
+    text-align:left;
+    padding-top:5%;
+    
+}
+.sidebar{
+    background-image: url("34.gif");
+    padding-left:5%;
+    padding-top:5%;
+    height:200%;
+}
+#bbb{
+    background-image:url("2.gif");
+    height:200%;
+    color:white;
+    background-size: cover;
+    
+}
+
